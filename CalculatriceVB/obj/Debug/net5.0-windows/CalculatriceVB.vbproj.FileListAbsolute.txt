@@ -1,0 +1,36 @@
+C:\Users\33679\Desktop\Cours SIO2\Atelier Mercy Mardi\CalculatriceVB\bin\Debug\net5.0-windows\CalculatriceVB.exe
+C:\Users\33679\Desktop\Cours SIO2\Atelier Mercy Mardi\CalculatriceVB\bin\Debug\net5.0-windows\CalculatriceVB.deps.json
+C:\Users\33679\Desktop\Cours SIO2\Atelier Mercy Mardi\CalculatriceVB\bin\Debug\net5.0-windows\CalculatriceVB.runtimeconfig.json
+C:\Users\33679\Desktop\Cours SIO2\Atelier Mercy Mardi\CalculatriceVB\bin\Debug\net5.0-windows\CalculatriceVB.runtimeconfig.dev.json
+C:\Users\33679\Desktop\Cours SIO2\Atelier Mercy Mardi\CalculatriceVB\bin\Debug\net5.0-windows\CalculatriceVB.dll
+C:\Users\33679\Desktop\Cours SIO2\Atelier Mercy Mardi\CalculatriceVB\bin\Debug\net5.0-windows\ref\CalculatriceVB.dll
+C:\Users\33679\Desktop\Cours SIO2\Atelier Mercy Mardi\CalculatriceVB\bin\Debug\net5.0-windows\CalculatriceVB.pdb
+C:\Users\33679\Desktop\Cours SIO2\Atelier Mercy Mardi\CalculatriceVB\obj\Debug\net5.0-windows\CalculatriceVB.Form1.resources
+C:\Users\33679\Desktop\Cours SIO2\Atelier Mercy Mardi\CalculatriceVB\obj\Debug\net5.0-windows\CalculatriceVB.vbproj.GenerateResource.cache
+C:\Users\33679\Desktop\Cours SIO2\Atelier Mercy Mardi\CalculatriceVB\obj\Debug\net5.0-windows\CalculatriceVB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\33679\Desktop\Cours SIO2\Atelier Mercy Mardi\CalculatriceVB\obj\Debug\net5.0-windows\CalculatriceVB.AssemblyInfoInputs.cache
+C:\Users\33679\Desktop\Cours SIO2\Atelier Mercy Mardi\CalculatriceVB\obj\Debug\net5.0-windows\CalculatriceVB.AssemblyInfo.vb
+C:\Users\33679\Desktop\Cours SIO2\Atelier Mercy Mardi\CalculatriceVB\obj\Debug\net5.0-windows\CalculatriceVB.vbproj.CoreCompileInputs.cache
+C:\Users\33679\Desktop\Cours SIO2\Atelier Mercy Mardi\CalculatriceVB\obj\Debug\net5.0-windows\CalculatriceVB.dll
+C:\Users\33679\Desktop\Cours SIO2\Atelier Mercy Mardi\CalculatriceVB\obj\Debug\net5.0-windows\ref\CalculatriceVB.dll
+C:\Users\33679\Desktop\Cours SIO2\Atelier Mercy Mardi\CalculatriceVB\obj\Debug\net5.0-windows\CalculatriceVB.pdb
+C:\Users\33679\Desktop\Cours SIO2\Atelier Mercy Mardi\CalculatriceVB\obj\Debug\net5.0-windows\CalculatriceVB.genruntimeconfig.cache
+C:\Users\33679\Desktop\Cours SIO2\Atelier Mercy Mardi\CalculatriceVB\obj\Debug\net5.0-windows\CalculatriceVB.vbproj.AssemblyReference.cache
+C:\Users\eliod\OneDrive\Bureau\Mercy mardi\CalculatriceVB\obj\Debug\net5.0-windows\CalculatriceVB.vbproj.AssemblyReference.cache
+C:\Users\eliod\OneDrive\Bureau\Mercy mardi\CalculatriceVB\obj\Debug\net5.0-windows\CalculatriceVB.Form1.resources
+C:\Users\eliod\OneDrive\Bureau\Mercy mardi\CalculatriceVB\obj\Debug\net5.0-windows\CalculatriceVB.vbproj.GenerateResource.cache
+C:\Users\eliod\OneDrive\Bureau\Mercy mardi\CalculatriceVB\obj\Debug\net5.0-windows\CalculatriceVB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliod\OneDrive\Bureau\Mercy mardi\CalculatriceVB\obj\Debug\net5.0-windows\CalculatriceVB.AssemblyInfoInputs.cache
+C:\Users\eliod\OneDrive\Bureau\Mercy mardi\CalculatriceVB\obj\Debug\net5.0-windows\CalculatriceVB.AssemblyInfo.vb
+C:\Users\eliod\OneDrive\Bureau\Mercy mardi\CalculatriceVB\obj\Debug\net5.0-windows\CalculatriceVB.vbproj.CoreCompileInputs.cache
+C:\Users\eliod\OneDrive\Bureau\Mercy mardi\CalculatriceVB\obj\Debug\net5.0-windows\CalculatriceVB.dll
+C:\Users\eliod\OneDrive\Bureau\Mercy mardi\CalculatriceVB\obj\Debug\net5.0-windows\CalculatriceVB.pdb
+C:\Users\eliod\OneDrive\Bureau\Mercy mardi\CalculatriceVB\bin\Debug\net5.0-windows\CalculatriceVB.exe
+C:\Users\eliod\OneDrive\Bureau\Mercy mardi\CalculatriceVB\bin\Debug\net5.0-windows\CalculatriceVB.deps.json
+C:\Users\eliod\OneDrive\Bureau\Mercy mardi\CalculatriceVB\bin\Debug\net5.0-windows\CalculatriceVB.runtimeconfig.json
+C:\Users\eliod\OneDrive\Bureau\Mercy mardi\CalculatriceVB\bin\Debug\net5.0-windows\CalculatriceVB.runtimeconfig.dev.json
+C:\Users\eliod\OneDrive\Bureau\Mercy mardi\CalculatriceVB\bin\Debug\net5.0-windows\CalculatriceVB.dll
+C:\Users\eliod\OneDrive\Bureau\Mercy mardi\CalculatriceVB\bin\Debug\net5.0-windows\CalculatriceVB.pdb
+C:\Users\eliod\OneDrive\Bureau\Mercy mardi\CalculatriceVB\obj\Debug\net5.0-windows\refint\CalculatriceVB.dll
+C:\Users\eliod\OneDrive\Bureau\Mercy mardi\CalculatriceVB\obj\Debug\net5.0-windows\CalculatriceVB.genruntimeconfig.cache
+C:\Users\eliod\OneDrive\Bureau\Mercy mardi\CalculatriceVB\obj\Debug\net5.0-windows\ref\CalculatriceVB.dll
